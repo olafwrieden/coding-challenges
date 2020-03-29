@@ -1,4 +1,5 @@
 # Coding Challenges
+
 A personal collection of coding challenges.
 
 ## Contents
@@ -9,3 +10,7 @@ A personal collection of coding challenges.
 ### Data Structures
 
 1. [LinkedList Implementation](LinkedList/LinkedList.java) from scratch
+
+### Sorting Algorithms
+
+1. [Insertion Sort](Sorting/InsertionSort.java) implementation
