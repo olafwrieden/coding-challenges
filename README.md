@@ -8,6 +8,7 @@ A personal collection of coding challenges.
 2. [Clock Angle Problem](Clock/ClockAngleProblem.java) - Find angle between the hands of an analog clock
 3. [Minimum Consecutive Sequences](MinimumConsecutiveSequences.java) in an integer array
 3. [String Palindrome](Strings/StringPalindrome.java) - iterative approach
+4. [Is Char String Unique](Strings/UniqueCharsInString.java) - Checks if the input string has only unique characters
 
 ### Data Structures
 
