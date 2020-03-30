@@ -10,6 +10,7 @@ A personal collection of coding challenges.
 4. [String Palindrome](Strings/StringPalindrome.java) - iterative approach
 5. [Is Char String Unique](Strings/UniqueCharsInString.java) - Checks if the input string has only unique characters
 6. [Is Permutation](Strings/CheckPermutations.java) - Checks if one input is a permutation of the other
+7. [Is Permutation of Palindrome](Strings/IsPermutationOfPalindrome.java) - Checks if the input string is a permutation of a palindrome
 
 ### Data Structures
 
