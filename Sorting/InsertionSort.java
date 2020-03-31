@@ -20,7 +20,7 @@ public class InsertionSort {
   /**
    * Applies Insertion Sort to the input array.
    * 
-   * @param array arrat to sort
+   * @param array array to sort
    */
   static void insertionSort(int[] array) {
     // Compare second element with previous element
@@ -40,6 +40,11 @@ public class InsertionSort {
     }
   }
 
+  /**
+   * Program entry point.
+   * 
+   * @param args program input parameters
+   */
   public static void main(String[] args) {
     int[] array = { 3, 8, 5, 4, 1, 9, -2 };
 
